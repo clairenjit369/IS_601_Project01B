@@ -14,7 +14,6 @@ class MyTestCase(unittest.TestCase):
     def test_add(self):
         self.assertEqual(self.calculator.add(2, 2), 4)
         self.assertEqual(self.calculator.result, 4)
-        ##test_data = CsvReader('src/Tests/Data/Addition.csv').data
         test_data = CsvReader('src\Tests\Data\Addition.csv').data
         for row in test_data:
             result = float(row['Result'])
