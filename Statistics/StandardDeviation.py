@@ -1,5 +1,5 @@
 from Calculator.squareRoot import squareRoot
-from Statistics.Variance import variance
+from Statistics.Statistics import variance
 
 def stddev(num):
     try:

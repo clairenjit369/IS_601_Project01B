@@ -1,5 +1,5 @@
 from Calculator.calculator import Calculator
-from Statistics.Mean import mean
+from Statistics.Statistics import mean
 
 
 class Statistics(Calculator):
