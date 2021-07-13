@@ -1,6 +1,6 @@
-from Calculator.division import division
-from Calculator.subtraction import subtraction
-from Calculator.addition import addition
+from Functions.division import division
+from Functions.subtraction import subtraction
+from Functions.addition import addition
 
 def median(num):
     try:

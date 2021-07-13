@@ -1,5 +1,5 @@
-from Calculator.square import square
-from Calculator.division import division
+from Functions.square import square
+from Functions.division import division
 from Statistics.Statistics import mean
 
 def variance(num):

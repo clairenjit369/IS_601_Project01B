@@ -1,4 +1,4 @@
-from Calculator.division import division
+from Functions.division import division
 
 
 def mean(num):
