@@ -6,7 +6,7 @@ s = Statistics()
 
 try:
     while True:
-        print("Choose an option from below:")
+        print("Pick one from below:")
         print("1) Addition")
         print("2) Subtraction")
         print("3) Multiplication")
