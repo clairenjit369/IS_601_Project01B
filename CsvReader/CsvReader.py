@@ -1,5 +1,5 @@
 import csv
-from Fileutilities.absolute_path import absolute_path
+from Functions.absolute_path import absolute_path
 
 
 class CsvReader:
