@@ -5,4 +5,4 @@ ADD . .
 RUN pip install numpy
 
 
-CMD ["python", "-m", "unittest", "discover", "-s","./src/Tests"]
+CMD ["python", "-m", "unittest", "discover", "-s","./Tests"]
